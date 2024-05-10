@@ -11,6 +11,8 @@
 		F96043FD2BEAB207000B50B8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96043FC2BEAB207000B50B8 /* ContentView.swift */; };
 		F96043FF2BEAB208000B50B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F96043FE2BEAB208000B50B8 /* Assets.xcassets */; };
 		F96044022BEAB208000B50B8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F96044012BEAB208000B50B8 /* Preview Assets.xcassets */; };
+		F9AE6C062BEE9D8E00F550BD /* porte.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AE6C052BEE9D8E00F550BD /* porte.swift */; };
+		F9AE6C082BEEAFE300F550BD /* styleguide.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AE6C072BEEAFE300F550BD /* styleguide.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		F96043FC2BEAB207000B50B8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F96043FE2BEAB208000B50B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F96044012BEAB208000B50B8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F9AE6C052BEE9D8E00F550BD /* porte.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = porte.swift; sourceTree = "<group>"; };
+		F9AE6C072BEEAFE300F550BD /* styleguide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = styleguide.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				F96043FA2BEAB207000B50B8 /* caoculadoraApp.swift */,
 				F96043FC2BEAB207000B50B8 /* ContentView.swift */,
+				F9AE6C072BEEAFE300F550BD /* styleguide.swift */,
+				F9AE6C052BEE9D8E00F550BD /* porte.swift */,
 				F96043FE2BEAB208000B50B8 /* Assets.xcassets */,
 				F96044002BEAB208000B50B8 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				F96043FD2BEAB207000B50B8 /* ContentView.swift in Sources */,
 				F96043FB2BEAB207000B50B8 /* caoculadoraApp.swift in Sources */,
+				F9AE6C082BEEAFE300F550BD /* styleguide.swift in Sources */,
+				F9AE6C062BEE9D8E00F550BD /* porte.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
